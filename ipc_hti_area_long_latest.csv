@@ -1,0 +1,422 @@
+Date of analysis,Country,Total country population,Level 1,Area,Validity period,From,To,Phase,Number,Percentage
+#date+analysis,#country+code,#population,#loc+level1,#loc+area,#period+v_ipc,#date+start,#date+end,#severity+v_ipc,#affected+num,#affected+pct
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,current,2025-09-01,2026-02-28,all,218984,1.0
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,current,2025-09-01,2026-02-28,3+,120442,0.55
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,current,2025-09-01,2026-02-28,1,43797,0.2
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,current,2025-09-01,2026-02-28,2,54746,0.25
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,current,2025-09-01,2026-02-28,3,87594,0.4
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,current,2025-09-01,2026-02-28,4,32848,0.15
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,first projection,2026-03-01,2026-07-31,all,218984,1.0
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,first projection,2026-03-01,2026-07-31,3+,120442,0.55
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,first projection,2026-03-01,2026-07-31,1,43797,0.2
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,first projection,2026-03-01,2026-07-31,2,54746,0.25
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,first projection,2026-03-01,2026-07-31,3,87594,0.4
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,first projection,2026-03-01,2026-07-31,4,32848,0.15
+Sep 2025,HTI,11214615,Nippes,Nippes HT01,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,current,2025-09-01,2026-02-28,all,210650,1.0
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,current,2025-09-01,2026-02-28,3+,105326,0.5
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,current,2025-09-01,2026-02-28,1,52663,0.25
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,current,2025-09-01,2026-02-28,2,52663,0.25
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,current,2025-09-01,2026-02-28,3,73728,0.35
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,current,2025-09-01,2026-02-28,4,31598,0.15
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,first projection,2026-03-01,2026-07-31,all,210650,1.0
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,first projection,2026-03-01,2026-07-31,3+,105326,0.5
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,first projection,2026-03-01,2026-07-31,1,52663,0.25
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,first projection,2026-03-01,2026-07-31,2,52663,0.25
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,first projection,2026-03-01,2026-07-31,3,73728,0.35
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,first projection,2026-03-01,2026-07-31,4,31598,0.15
+Sep 2025,HTI,11214615,Nippes,Nippes HT07 + HT08,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,current,2025-09-01,2026-02-28,all,446241,1.0
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,current,2025-09-01,2026-02-28,3+,245432,0.55
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,current,2025-09-01,2026-02-28,1,89248,0.2
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,current,2025-09-01,2026-02-28,2,111560,0.25
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,current,2025-09-01,2026-02-28,3,156184,0.35
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,current,2025-09-01,2026-02-28,4,89248,0.2
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,first projection,2026-03-01,2026-07-31,all,446241,1.0
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,first projection,2026-03-01,2026-07-31,3+,245432,0.55
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,first projection,2026-03-01,2026-07-31,1,89248,0.2
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,first projection,2026-03-01,2026-07-31,2,111560,0.25
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,first projection,2026-03-01,2026-07-31,3,156184,0.35
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,first projection,2026-03-01,2026-07-31,4,89248,0.2
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT04,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,current,2025-09-01,2026-02-28,all,458888,1.0
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,current,2025-09-01,2026-02-28,3+,229444,0.5
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,current,2025-09-01,2026-02-28,1,91778,0.2
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,current,2025-09-01,2026-02-28,2,137666,0.3
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,current,2025-09-01,2026-02-28,3,137666,0.3
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,current,2025-09-01,2026-02-28,4,91778,0.2
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,first projection,2026-03-01,2026-07-31,all,458888,1.0
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,first projection,2026-03-01,2026-07-31,3+,252389,0.55
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,first projection,2026-03-01,2026-07-31,1,91778,0.2
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,first projection,2026-03-01,2026-07-31,2,114722,0.25
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,first projection,2026-03-01,2026-07-31,3,160611,0.35
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,first projection,2026-03-01,2026-07-31,4,91778,0.2
+Sep 2025,HTI,11214615,Artibonite,Artibonite HT03,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,current,2025-09-01,2026-02-28,all,240744,1.0
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,current,2025-09-01,2026-02-28,3+,72223,0.3
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,current,2025-09-01,2026-02-28,1,84260,0.35
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,current,2025-09-01,2026-02-28,2,84260,0.35
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,current,2025-09-01,2026-02-28,3,48149,0.2
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,current,2025-09-01,2026-02-28,4,24074,0.1
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,first projection,2026-03-01,2026-07-31,all,240744,1.0
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,first projection,2026-03-01,2026-07-31,3+,84260,0.35
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,first projection,2026-03-01,2026-07-31,1,84260,0.35
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,first projection,2026-03-01,2026-07-31,2,72223,0.3
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,first projection,2026-03-01,2026-07-31,3,60186,0.25
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,first projection,2026-03-01,2026-07-31,4,24074,0.1
+Sep 2025,HTI,11214615,Artibonite,Ville des Gonaives,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,current,2025-09-01,2026-02-28,all,751159,1.0
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,current,2025-09-01,2026-02-28,3+,413138,0.55
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,current,2025-09-01,2026-02-28,1,112674,0.15
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,current,2025-09-01,2026-02-28,2,225348,0.3
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,current,2025-09-01,2026-02-28,3,262906,0.35
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,current,2025-09-01,2026-02-28,4,150232,0.2
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,first projection,2026-03-01,2026-07-31,all,751159,1.0
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,first projection,2026-03-01,2026-07-31,3+,450696,0.6
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,first projection,2026-03-01,2026-07-31,1,112674,0.15
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,first projection,2026-03-01,2026-07-31,2,187790,0.25
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,first projection,2026-03-01,2026-07-31,3,262906,0.35
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,first projection,2026-03-01,2026-07-31,4,187790,0.25
+Sep 2025,HTI,11214615,Artibonite,Artibonite_HT01+HT05+HT08,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,current,2025-09-01,2026-02-28,all,322248,1.0
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,current,2025-09-01,2026-02-28,3+,112786,0.35
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,current,2025-09-01,2026-02-28,1,112787,0.35
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,current,2025-09-01,2026-02-28,2,96674,0.3
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,current,2025-09-01,2026-02-28,3,96674,0.3
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,current,2025-09-01,2026-02-28,4,16112,0.05
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,first projection,2026-03-01,2026-07-31,all,322248,1.0
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,first projection,2026-03-01,2026-07-31,3+,112786,0.35
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,first projection,2026-03-01,2026-07-31,1,112787,0.35
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,first projection,2026-03-01,2026-07-31,2,96674,0.3
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,first projection,2026-03-01,2026-07-31,3,96674,0.3
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,first projection,2026-03-01,2026-07-31,4,16112,0.05
+Sep 2025,HTI,11214615,Nord,Ville du Cap Haitien,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Nord,Nord HT02,current,2025-09-01,2026-02-28,all,675146,1.0
+Sep 2025,HTI,11214615,Nord,Nord HT02,current,2025-09-01,2026-02-28,3+,303816,0.45
+Sep 2025,HTI,11214615,Nord,Nord HT02,current,2025-09-01,2026-02-28,1,168787,0.25
+Sep 2025,HTI,11214615,Nord,Nord HT02,current,2025-09-01,2026-02-28,2,202544,0.3
+Sep 2025,HTI,11214615,Nord,Nord HT02,current,2025-09-01,2026-02-28,3,236301,0.35
+Sep 2025,HTI,11214615,Nord,Nord HT02,current,2025-09-01,2026-02-28,4,67515,0.1
+Sep 2025,HTI,11214615,Nord,Nord HT02,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Nord,Nord HT02,first projection,2026-03-01,2026-07-31,all,675146,1.0
+Sep 2025,HTI,11214615,Nord,Nord HT02,first projection,2026-03-01,2026-07-31,3+,303816,0.45
+Sep 2025,HTI,11214615,Nord,Nord HT02,first projection,2026-03-01,2026-07-31,1,168787,0.25
+Sep 2025,HTI,11214615,Nord,Nord HT02,first projection,2026-03-01,2026-07-31,2,202544,0.3
+Sep 2025,HTI,11214615,Nord,Nord HT02,first projection,2026-03-01,2026-07-31,3,236301,0.35
+Sep 2025,HTI,11214615,Nord,Nord HT02,first projection,2026-03-01,2026-07-31,4,67515,0.1
+Sep 2025,HTI,11214615,Nord,Nord HT02,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Nord,Nord HT03,current,2025-09-01,2026-02-28,all,280857,1.0
+Sep 2025,HTI,11214615,Nord,Nord HT03,current,2025-09-01,2026-02-28,3+,126386,0.45
+Sep 2025,HTI,11214615,Nord,Nord HT03,current,2025-09-01,2026-02-28,1,70214,0.25
+Sep 2025,HTI,11214615,Nord,Nord HT03,current,2025-09-01,2026-02-28,2,84257,0.3
+Sep 2025,HTI,11214615,Nord,Nord HT03,current,2025-09-01,2026-02-28,3,98300,0.35
+Sep 2025,HTI,11214615,Nord,Nord HT03,current,2025-09-01,2026-02-28,4,28086,0.1
+Sep 2025,HTI,11214615,Nord,Nord HT03,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Nord,Nord HT03,first projection,2026-03-01,2026-07-31,all,280857,1.0
+Sep 2025,HTI,11214615,Nord,Nord HT03,first projection,2026-03-01,2026-07-31,3+,126386,0.45
+Sep 2025,HTI,11214615,Nord,Nord HT03,first projection,2026-03-01,2026-07-31,1,70214,0.25
+Sep 2025,HTI,11214615,Nord,Nord HT03,first projection,2026-03-01,2026-07-31,2,84257,0.3
+Sep 2025,HTI,11214615,Nord,Nord HT03,first projection,2026-03-01,2026-07-31,3,98300,0.35
+Sep 2025,HTI,11214615,Nord,Nord HT03,first projection,2026-03-01,2026-07-31,4,28086,0.1
+Sep 2025,HTI,11214615,Nord,Nord HT03,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,current,2025-09-01,2026-02-28,all,613000,1.0
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,current,2025-09-01,2026-02-28,3+,275850,0.45
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,current,2025-09-01,2026-02-28,1,153250,0.25
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,current,2025-09-01,2026-02-28,2,183900,0.3
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,current,2025-09-01,2026-02-28,3,183900,0.3
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,current,2025-09-01,2026-02-28,4,91950,0.15
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,first projection,2026-03-01,2026-07-31,all,613000,1.0
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,first projection,2026-03-01,2026-07-31,3+,306500,0.5
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,first projection,2026-03-01,2026-07-31,1,153250,0.25
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,first projection,2026-03-01,2026-07-31,2,153250,0.25
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,first projection,2026-03-01,2026-07-31,3,214550,0.35
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,first projection,2026-03-01,2026-07-31,4,91950,0.15
+Sep 2025,HTI,11214615,Sud,Sud HT01 et HT07,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Sud,Sud HT08,current,2025-09-01,2026-02-28,all,294349,1.0
+Sep 2025,HTI,11214615,Sud,Sud HT08,current,2025-09-01,2026-02-28,3+,147174,0.5
+Sep 2025,HTI,11214615,Sud,Sud HT08,current,2025-09-01,2026-02-28,1,58870,0.2
+Sep 2025,HTI,11214615,Sud,Sud HT08,current,2025-09-01,2026-02-28,2,88305,0.3
+Sep 2025,HTI,11214615,Sud,Sud HT08,current,2025-09-01,2026-02-28,3,103022,0.35
+Sep 2025,HTI,11214615,Sud,Sud HT08,current,2025-09-01,2026-02-28,4,44152,0.15
+Sep 2025,HTI,11214615,Sud,Sud HT08,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Sud,Sud HT08,first projection,2026-03-01,2026-07-31,all,294349,1.0
+Sep 2025,HTI,11214615,Sud,Sud HT08,first projection,2026-03-01,2026-07-31,3+,161892,0.55
+Sep 2025,HTI,11214615,Sud,Sud HT08,first projection,2026-03-01,2026-07-31,1,58870,0.2
+Sep 2025,HTI,11214615,Sud,Sud HT08,first projection,2026-03-01,2026-07-31,2,73587,0.25
+Sep 2025,HTI,11214615,Sud,Sud HT08,first projection,2026-03-01,2026-07-31,3,117740,0.4
+Sep 2025,HTI,11214615,Sud,Sud HT08,first projection,2026-03-01,2026-07-31,4,44152,0.15
+Sep 2025,HTI,11214615,Sud,Sud HT08,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,current,2025-09-01,2026-02-28,all,117144,1.0
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,current,2025-09-01,2026-02-28,3+,58572,0.5
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,current,2025-09-01,2026-02-28,1,29286,0.25
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,current,2025-09-01,2026-02-28,2,29286,0.25
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,current,2025-09-01,2026-02-28,3,41000,0.35
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,current,2025-09-01,2026-02-28,4,17572,0.15
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,first projection,2026-03-01,2026-07-31,all,117144,1.0
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,first projection,2026-03-01,2026-07-31,3+,64430,0.55
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,first projection,2026-03-01,2026-07-31,1,29286,0.25
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,first projection,2026-03-01,2026-07-31,2,23429,0.2
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,first projection,2026-03-01,2026-07-31,3,46858,0.4
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,first projection,2026-03-01,2026-07-31,4,17572,0.15
+Sep 2025,HTI,11214615,Sud,Ville des Cayes,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,current,2025-09-01,2026-02-28,all,722763,1.0
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,current,2025-09-01,2026-02-28,3+,289105,0.4
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,current,2025-09-01,2026-02-28,1,180691,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,current,2025-09-01,2026-02-28,2,252967,0.35
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,current,2025-09-01,2026-02-28,3,216829,0.3
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,current,2025-09-01,2026-02-28,4,72276,0.1
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,first projection,2026-03-01,2026-07-31,all,722763,1.0
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,first projection,2026-03-01,2026-07-31,3+,325243,0.45
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,first projection,2026-03-01,2026-07-31,1,180691,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,first projection,2026-03-01,2026-07-31,2,216829,0.3
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,first projection,2026-03-01,2026-07-31,3,216829,0.3
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,first projection,2026-03-01,2026-07-31,4,108414,0.15
+Sep 2025,HTI,11214615,Ouest,Ouest HT07+HT03,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,current,2025-09-01,2026-02-28,all,101842,1.0
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,current,2025-09-01,2026-02-28,3+,61106,0.6
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,current,2025-09-01,2026-02-28,1,15276,0.15
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,current,2025-09-01,2026-02-28,2,25461,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,current,2025-09-01,2026-02-28,3,35645,0.35
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,current,2025-09-01,2026-02-28,4,25461,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,first projection,2026-03-01,2026-07-31,all,101842,1.0
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,first projection,2026-03-01,2026-07-31,3+,61106,0.6
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,first projection,2026-03-01,2026-07-31,1,15276,0.15
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,first projection,2026-03-01,2026-07-31,2,25461,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,first projection,2026-03-01,2026-07-31,3,35645,0.35
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,first projection,2026-03-01,2026-07-31,4,25461,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest_HT01- La gonave,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,current,2025-09-01,2026-02-28,all,234497,1.0
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,current,2025-09-01,2026-02-28,3+,105524,0.45
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,current,2025-09-01,2026-02-28,1,58624,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,current,2025-09-01,2026-02-28,2,70349,0.3
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,current,2025-09-01,2026-02-28,3,70349,0.3
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,current,2025-09-01,2026-02-28,4,35175,0.15
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,first projection,2026-03-01,2026-07-31,all,234497,1.0
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,first projection,2026-03-01,2026-07-31,3+,117249,0.5
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,first projection,2026-03-01,2026-07-31,1,58624,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,first projection,2026-03-01,2026-07-31,2,58624,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,first projection,2026-03-01,2026-07-31,3,82074,0.35
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,first projection,2026-03-01,2026-07-31,4,35175,0.15
+Sep 2025,HTI,11214615,Ouest,Ouest HT05,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,current,2025-09-01,2026-02-28,all,103281,1.0
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,current,2025-09-01,2026-02-28,3+,51640,0.5
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,current,2025-09-01,2026-02-28,1,25820,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,current,2025-09-01,2026-02-28,2,25820,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,current,2025-09-01,2026-02-28,3,36148,0.35
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,current,2025-09-01,2026-02-28,4,15492,0.15
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,first projection,2026-03-01,2026-07-31,all,103281,1.0
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,first projection,2026-03-01,2026-07-31,3+,51640,0.5
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,first projection,2026-03-01,2026-07-31,1,25820,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,first projection,2026-03-01,2026-07-31,2,25820,0.25
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,first projection,2026-03-01,2026-07-31,3,36148,0.35
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,first projection,2026-03-01,2026-07-31,4,15492,0.15
+Sep 2025,HTI,11214615,Ouest,Ouest HT06,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,current,2025-09-01,2026-02-28,all,443649,1.0
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,current,2025-09-01,2026-02-28,3+,288372,0.65
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,current,2025-09-01,2026-02-28,1,66547,0.15
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,current,2025-09-01,2026-02-28,2,88730,0.2
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,current,2025-09-01,2026-02-28,3,177460,0.4
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,current,2025-09-01,2026-02-28,4,110912,0.25
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,first projection,2026-03-01,2026-07-31,all,443649,1.0
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,first projection,2026-03-01,2026-07-31,3+,288372,0.65
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,first projection,2026-03-01,2026-07-31,1,66547,0.15
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,first projection,2026-03-01,2026-07-31,2,88730,0.2
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,first projection,2026-03-01,2026-07-31,3,177460,0.4
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,first projection,2026-03-01,2026-07-31,4,110912,0.25
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT02,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,current,2025-09-01,2026-02-28,all,367305,1.0
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,current,2025-09-01,2026-02-28,3+,220383,0.6
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,current,2025-09-01,2026-02-28,1,73461,0.2
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,current,2025-09-01,2026-02-28,2,73461,0.2
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,current,2025-09-01,2026-02-28,3,128557,0.35
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,current,2025-09-01,2026-02-28,4,91826,0.25
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,first projection,2026-03-01,2026-07-31,all,367305,1.0
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,first projection,2026-03-01,2026-07-31,3+,220383,0.6
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,first projection,2026-03-01,2026-07-31,1,73461,0.2
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,first projection,2026-03-01,2026-07-31,2,73461,0.2
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,first projection,2026-03-01,2026-07-31,3,128557,0.35
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,first projection,2026-03-01,2026-07-31,4,91826,0.25
+Sep 2025,HTI,11214615,Nord-Ouest,Nord-ouest HT01,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,current,2025-09-01,2026-02-28,all,195978,1.0
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,current,2025-09-01,2026-02-28,3+,146983,0.75
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,current,2025-09-01,2026-02-28,1,19598,0.1
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,current,2025-09-01,2026-02-28,2,29397,0.15
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,current,2025-09-01,2026-02-28,3,68592,0.35
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,current,2025-09-01,2026-02-28,4,78391,0.4
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,first projection,2026-03-01,2026-07-31,all,195978,1.0
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,first projection,2026-03-01,2026-07-31,3+,146983,0.75
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,first projection,2026-03-01,2026-07-31,1,19598,0.1
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,first projection,2026-03-01,2026-07-31,2,29397,0.15
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,first projection,2026-03-01,2026-07-31,3,68592,0.35
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,first projection,2026-03-01,2026-07-31,4,78391,0.4
+Sep 2025,HTI,11214615,ZMPAP,Camp de deplacement,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",current,2025-09-01,2026-02-28,all,632431,1.0
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",current,2025-09-01,2026-02-28,3+,284594,0.45
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",current,2025-09-01,2026-02-28,1,158108,0.25
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",current,2025-09-01,2026-02-28,2,189729,0.3
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",current,2025-09-01,2026-02-28,3,189729,0.3
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",current,2025-09-01,2026-02-28,4,94865,0.15
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",first projection,2026-03-01,2026-07-31,all,632431,1.0
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",first projection,2026-03-01,2026-07-31,3+,284594,0.45
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",first projection,2026-03-01,2026-07-31,1,158108,0.25
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",first projection,2026-03-01,2026-07-31,2,189729,0.3
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",first projection,2026-03-01,2026-07-31,3,189729,0.3
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",first projection,2026-03-01,2026-07-31,4,94865,0.15
+Sep 2025,HTI,11214615,ZMPAP,"Delmas, Petion Ville et Carrefour P+TP",first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,current,2025-09-01,2026-02-28,all,871707,1.0
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,current,2025-09-01,2026-02-28,3+,523024,0.6
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,current,2025-09-01,2026-02-28,1,174341,0.2
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,current,2025-09-01,2026-02-28,2,174341,0.2
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,current,2025-09-01,2026-02-28,3,305097,0.35
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,current,2025-09-01,2026-02-28,4,217927,0.25
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,first projection,2026-03-01,2026-07-31,all,871707,1.0
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,first projection,2026-03-01,2026-07-31,3+,523024,0.6
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,first projection,2026-03-01,2026-07-31,1,174341,0.2
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,first projection,2026-03-01,2026-07-31,2,174341,0.2
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,first projection,2026-03-01,2026-07-31,3,305097,0.35
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,first projection,2026-03-01,2026-07-31,4,217927,0.25
+Sep 2025,HTI,11214615,ZMPAP,Port-au-Prince et Cite Soleil P_TP,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,current,2025-09-01,2026-02-28,all,87019,1.0
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,current,2025-09-01,2026-02-28,3+,43510,0.5
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,current,2025-09-01,2026-02-28,1,17404,0.2
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,current,2025-09-01,2026-02-28,2,26106,0.3
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,current,2025-09-01,2026-02-28,3,30457,0.35
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,current,2025-09-01,2026-02-28,4,13053,0.15
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,first projection,2026-03-01,2026-07-31,all,87019,1.0
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,first projection,2026-03-01,2026-07-31,3+,43510,0.5
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,first projection,2026-03-01,2026-07-31,1,17404,0.2
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,first projection,2026-03-01,2026-07-31,2,26106,0.3
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,first projection,2026-03-01,2026-07-31,3,30457,0.35
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,first projection,2026-03-01,2026-07-31,4,13053,0.15
+Sep 2025,HTI,11214615,ZMPAP,Croix de Bouquet  et Tabarre P+ TP,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,current,2025-09-01,2026-02-28,all,465189,1.0
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,current,2025-09-01,2026-02-28,3+,279114,0.6
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,current,2025-09-01,2026-02-28,1,93038,0.2
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,current,2025-09-01,2026-02-28,2,93038,0.2
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,current,2025-09-01,2026-02-28,3,186076,0.4
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,current,2025-09-01,2026-02-28,4,93038,0.2
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,first projection,2026-03-01,2026-07-31,all,465189,1.0
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,first projection,2026-03-01,2026-07-31,3+,279114,0.6
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,first projection,2026-03-01,2026-07-31,1,93038,0.2
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,first projection,2026-03-01,2026-07-31,2,93038,0.2
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,first projection,2026-03-01,2026-07-31,3,186076,0.4
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,first projection,2026-03-01,2026-07-31,4,93038,0.2
+Sep 2025,HTI,11214615,Centre,Bas plateau HT03,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,current,2025-09-01,2026-02-28,all,494996,1.0
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,current,2025-09-01,2026-02-28,3+,247498,0.5
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,current,2025-09-01,2026-02-28,1,123749,0.25
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,current,2025-09-01,2026-02-28,2,123749,0.25
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,current,2025-09-01,2026-02-28,3,173249,0.35
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,current,2025-09-01,2026-02-28,4,74249,0.15
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,first projection,2026-03-01,2026-07-31,all,494996,1.0
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,first projection,2026-03-01,2026-07-31,3+,247498,0.5
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,first projection,2026-03-01,2026-07-31,1,123749,0.25
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,first projection,2026-03-01,2026-07-31,2,123749,0.25
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,first projection,2026-03-01,2026-07-31,3,173249,0.35
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,first projection,2026-03-01,2026-07-31,4,74249,0.15
+Sep 2025,HTI,11214615,Centre,Haut plateau HT04,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,current,2025-09-01,2026-02-28,all,486921,1.0
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,current,2025-09-01,2026-02-28,3+,243460,0.5
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,current,2025-09-01,2026-02-28,1,121730,0.25
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,current,2025-09-01,2026-02-28,2,121730,0.25
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,current,2025-09-01,2026-02-28,3,170422,0.35
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,current,2025-09-01,2026-02-28,4,73038,0.15
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,first projection,2026-03-01,2026-07-31,all,486921,1.0
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,first projection,2026-03-01,2026-07-31,3+,243460,0.5
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,first projection,2026-03-01,2026-07-31,1,121730,0.25
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,first projection,2026-03-01,2026-07-31,2,121730,0.25
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,first projection,2026-03-01,2026-07-31,3,170422,0.35
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,first projection,2026-03-01,2026-07-31,4,73038,0.15
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT01,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,current,2025-09-01,2026-02-28,all,345424,1.0
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,current,2025-09-01,2026-02-28,3+,189984,0.55
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,current,2025-09-01,2026-02-28,1,69085,0.2
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,current,2025-09-01,2026-02-28,2,86356,0.25
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,current,2025-09-01,2026-02-28,3,138170,0.4
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,current,2025-09-01,2026-02-28,4,51814,0.15
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,first projection,2026-03-01,2026-07-31,all,345424,1.0
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,first projection,2026-03-01,2026-07-31,3+,189983,0.55
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,first projection,2026-03-01,2026-07-31,1,69085,0.2
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,first projection,2026-03-01,2026-07-31,2,86356,0.25
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,first projection,2026-03-01,2026-07-31,3,120898,0.35
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,first projection,2026-03-01,2026-07-31,4,69085,0.2
+Sep 2025,HTI,11214615,Sud-Est,Sud-Est HT07,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,current,2025-09-01,2026-02-28,all,77951,1.0
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,current,2025-09-01,2026-02-28,3+,27283,0.35
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,current,2025-09-01,2026-02-28,1,23385,0.3
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,current,2025-09-01,2026-02-28,2,27283,0.35
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,current,2025-09-01,2026-02-28,3,19488,0.25
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,current,2025-09-01,2026-02-28,4,7795,0.1
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,first projection,2026-03-01,2026-07-31,all,77951,1.0
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,first projection,2026-03-01,2026-07-31,3+,27283,0.35
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,first projection,2026-03-01,2026-07-31,1,23385,0.3
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,first projection,2026-03-01,2026-07-31,2,27283,0.35
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,first projection,2026-03-01,2026-07-31,3,19488,0.25
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,first projection,2026-03-01,2026-07-31,4,7795,0.1
+Sep 2025,HTI,11214615,Nord-Est,Ville de Ouanaminthe,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,current,2025-09-01,2026-02-28,all,411235,1.0
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,current,2025-09-01,2026-02-28,3+,185056,0.45
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,current,2025-09-01,2026-02-28,1,102809,0.25
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,current,2025-09-01,2026-02-28,2,123371,0.3
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,current,2025-09-01,2026-02-28,3,123371,0.3
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,current,2025-09-01,2026-02-28,4,61685,0.15
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,first projection,2026-03-01,2026-07-31,all,411235,1.0
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,first projection,2026-03-01,2026-07-31,3+,205617,0.5
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,first projection,2026-03-01,2026-07-31,1,102809,0.25
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,first projection,2026-03-01,2026-07-31,2,102809,0.25
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,first projection,2026-03-01,2026-07-31,3,143932,0.35
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,first projection,2026-03-01,2026-07-31,4,61685,0.15
+Sep 2025,HTI,11214615,Nord-Est,Nord-est HT02 + HT03,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,current,2025-09-01,2026-02-28,all,204146,1.0
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,current,2025-09-01,2026-02-28,3+,112280,0.55
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,current,2025-09-01,2026-02-28,1,40829,0.2
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,current,2025-09-01,2026-02-28,2,51037,0.25
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,current,2025-09-01,2026-02-28,3,81658,0.4
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,current,2025-09-01,2026-02-28,4,30622,0.15
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,first projection,2026-03-01,2026-07-31,all,204146,1.0
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,first projection,2026-03-01,2026-07-31,3+,112280,0.55
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,first projection,2026-03-01,2026-07-31,1,40829,0.2
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,first projection,2026-03-01,2026-07-31,2,51037,0.25
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,first projection,2026-03-01,2026-07-31,3,81658,0.4
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,first projection,2026-03-01,2026-07-31,4,30622,0.15
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT07,first projection,2026-03-01,2026-07-31,5,0,0
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,current,2025-09-01,2026-02-28,all,418051,1.0
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,current,2025-09-01,2026-02-28,3+,188123,0.45
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,current,2025-09-01,2026-02-28,1,104513,0.25
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,current,2025-09-01,2026-02-28,2,125415,0.3
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,current,2025-09-01,2026-02-28,3,125415,0.3
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,current,2025-09-01,2026-02-28,4,62708,0.15
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,current,2025-09-01,2026-02-28,5,0,0
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,first projection,2026-03-01,2026-07-31,all,418051,1.0
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,first projection,2026-03-01,2026-07-31,3+,209026,0.5
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,first projection,2026-03-01,2026-07-31,1,104513,0.25
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,first projection,2026-03-01,2026-07-31,2,104513,0.25
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,first projection,2026-03-01,2026-07-31,3,146318,0.35
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,first projection,2026-03-01,2026-07-31,4,62708,0.15
+Sep 2025,HTI,11214615,Grand-Anse,Grande-anse HT08+Jérémie,first projection,2026-03-01,2026-07-31,5,0,0
