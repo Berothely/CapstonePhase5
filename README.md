@@ -180,6 +180,40 @@ indicateurs issus du *Joint Monitoring Report (JMR)*.
 La démarche suit une approche scientifique en quatre étapes :
 1. Séparation des données en features et target ;  
 2. Division du jeu de données en ensembles d’entraînement et de test ;  
-3. Construction, apprentissage et évaluation de plusieurs modèles ;  
+3. Construction, apprentissage et évaluation de plusieurs modèles ; 
+
+# Phase 5 — Évaluation et validation du modèle
+
+Dans cette phase, on a vérifier si le modèle qu'on a construit est réellement fiable pour anticiper le niveau d’insécurité alimentaire (Phase IPC) dans les départements et communes d’Haïti.
+
+L’objectif n’est pas seulement d’avoir un bon score mathématique. L’objectif est de pouvoir répondre à une question opérationnelle très simple :
+
+> Est-ce que nous pouvons utiliser ce modèle pour dire à une autorité (Agriculture, CNSA, PAM) :
+> « Attention, telle commune risque de passer en phase critique » ?
+
+Pour répondre sérieusement à cette question, on va :
+1. mesurer la précision des prédictions,
+2. vérifier que le modèle ne triche pas (surapprentissage),
+3. étudier les erreurs de prédiction,
+4. relier les résultats à la réalité du terrain (prix alimentaires, sécheresse, pluie).
+
+La phase 5 n’est donc pas seulement technique. C’est la phase où on juge si le modèle peut vivre dans le monde réel.
+
+
+## 5.1 Performance prédictive du modèle sur des données jamais vues
+
+Dans cette section, on teste le modèle sur des données qu’il n’a pas vues pendant l’entraînement.  
+
+On mesure trois choses :
+- **MAE (Mean Absolute Error)** : l’erreur moyenne absolue entre la phase réelle et la phase prédite.
+- **RMSE (Root Mean Squared Error)** : pénalise plus fort les grosses erreurs.
+- **R²** : quelle part de la variation de la phase IPC est expliquée par nos indicateurs.
+
+Plus MAE et RMSE sont bas, mieux c’est.  
+Plus R² est haut, mieux c’est.
+
+
+
+
 4. Sélection du modèle final et analyse de ses performances.
 
