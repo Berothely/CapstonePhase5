@@ -133,11 +133,7 @@ Les indicateurs climatiques (pluie, NDVI, sécheresse) et d’accessibilité inf
 
 ## 🧭 Vision du projet
 
-Ce travail repose sur la conviction que la **donnée peut devenir un levier de souveraineté alimentaire**.  
-En exploitant la méthode **CRISP-DM**, le projet relie l’analyse scientifique à l’action publique.  
-L’ambition n’est pas seulement de prédire : il s’agit de **comprendre les dynamiques qui nourrissent l’insécurité alimentaire**, d’en suivre les évolutions dans le temps et d’offrir un outil concret d’aide à la décision.  
-
-Cette démarche veut contribuer à la **construction d’une politique alimentaire plus résiliente**, centrée sur la valorisation de la production locale, la sécurité des zones rurales et la justice économique pour les communautés agricoles.
+Le projet vise à révolutionner la gestion de la sécurité alimentaire en Haïti en développant un modèle prédictif capable d’anticiper les crises alimentaires avant qu’elles n'atteignent des seuils critiques. En intégrant des données climatiques, économiques, sociales et sécuritaires, ce modèle permettra aux acteurs humanitaires et institutionnels de prendre des décisions proactives, optimisant ainsi les interventions et les ressources disponibles. Contrairement aux outils traditionnels comme l’IPC, qui se contentent d'une analyse descriptive de la situation actuelle, ce modèle se distingue par sa capacité à prédire l’évolution des phases de l'IPC en fonction de multiples facteurs locaux. Nous voulons renforcer la résilience des communautés haïtiennes en permettant une anticipation des crises alimentaires, ce qui permettra une gestion plus réactive et ciblée des ressources. Ainsi, le projet s’inscrit dans une vision à long terme, en offrant un outil flexible et dynamique qui soutient non seulement la gestion de la crise actuelle, mais aussi la préparation aux crises futures, tout en intégrant les spécificités de la réalité haïtienne.
 
 ---
 
@@ -165,6 +161,64 @@ Dans le cadre de ce projet, 2 sources principales pour 3 datasets ont été expl
 2. Le jeu de données du système IPC (Integrated Food Security Phase Classification).
 
 Ces trois jeux de données forment un socle d’analyse combinant la dimension temporelle, la dimension spatiale et la dimension structurelle de l’insécurité alimentaire en Haïti.
+
+
+## 2.1 – Description des jeux de données
+
+Trois sources principales ont été retenues :
+
+### a) **HTI_JMR_data.csv**  
+Ce jeu de données provient du **Joint Monitoring Report (JMR)**.  
+Ce fichier contient des observations mensuelles de l’évolution des phases IPC par commune depuis 2010. Il contient près de 451 920 observations décrivant les valeurs de référence liées à la classification IPC au niveau communal (adm2_pcode). Il inclut des variables telles que :
+
+
+| Variable | Description | Type |
+|-----------|-------------|------|
+| `iso3` | Code ISO du pays | Catégorielle |
+| `ipc phase cutoff` | Niveau seuil IPC considéré | Numérique |
+| `adm2_pcode` | Code administratif de la commune | Catégorielle |
+| `year`, `month`, `date` | Variables temporelles | Temporelles |
+| `indicator`, `grouping` | Type d’indicateur ou regroupement | Catégorielles |
+| `value` | Valeur observée | Numérique |
+
+Ce jeu de données offre une vue chronologique continue de la situation alimentaire à travers les communes haïtiennes.
+Il permettra de suivre les évolutions dans le temps et d’extraire des tendances saisonnières ou structurelles.
+
+### **HTI_JMR_pcodes.csv**  
+Ce fichier fournit le référentiel géographique permettant d’associer chaque code à sa zone administrative.
+
+
+| Variable | Description |
+|-----------|--------------|
+| `adm1_name` | Département |
+| `adm2_name` | Commune |
+| `adm2_pcode` | Code administratif |
+| `country` | Nom du pays (Haïti) |
+
+Ce fichier est essentiel pour lier les données JMR et IPC à leurs localisations géographiques.
+
+### c) **ipc_hti_area_long_latest.csv** 
+Ce dernier jeu de données regroupe les **résultats récents de l’analyse IPC (septembre 2025)**. Il décrit la population touchée par phase IPC.
+
+
+| Variable | Description |
+|-----------|-------------|
+| `Date of analysis` | Mois et année de l’analyse |
+| `Level 1` | Département |
+| `Phase` | Niveau d’insécurité alimentaire (1 à 5) |
+| `Number` | Population touchée |
+| `Percentage` | Proportion dans la population totale |
+| `From` / `To` | Période de validité de l’évaluation |
+
+
+### Repartition des indicateurs du JMR
+
+La colonne `indicator` du fichier `HTI_JMR_data.csv` regroupe les types d’informations suivies dans le système de surveillance alimentaire.  
+Ces indicateurs traduisent la **réalité économique, climatique et environnementale** des communes haïtiennes.  
+Ils constituent la base des observations utilisées par le système IPC pour évaluer le risque d’insécurité alimentaire.
+
+Le graphique ci-dessous présente les indicateurs les plus fréquents dans le jeu de données JMR :
+
 
 # Phase 3 – Préparation des données (Data Preparation)
 
