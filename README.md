@@ -310,7 +310,7 @@ On veut savoir : est-ce que le modèle sous-estime systématiquement certaines z
 Ou est-ce qu’il est équilibré ?
 
 <center>
-    <img src="CRISP-DM.png" alt="CRISP-DM Process" width="700"/>
+    <img src="Residus.png" alt="" width="700"/>
     <br>
  
 </center>
@@ -382,7 +382,7 @@ On veut répondre honnêtement à la question suivante :
 On extrait donc l’importance de chaque indicateur dans le modèle (basé ici sur la Random Forest).
 
 <center>
-    <img src="CRISP-DM.png" alt="CRISP-DM Process" width="700"/>
+    <img src="Indicateurs.png" alt="" width="700"/>
     <br>
  
 </center>
@@ -414,7 +414,7 @@ Ici on résume, par département, trois informations clés :
 L’objectif est de comprendre l'essence de cette question : “Quels départements combinent prix élevés et sécheresse ?”
 
 <center>
-    <img src="CRISP-DM.png" alt="CRISP-DM Process" width="700"/>
+    <img src="correlation.png" alt="" width="700"/>
     <br>
  
 </center>
@@ -565,123 +565,7 @@ Les modèles prédictifs montrent que **les politiques d’adaptation ne peuvent
 
 
 *Le modèle raconte la géographie de la faim : là où la route, la pluie ou le prix vacillent, la sécurité alimentaire s’effondre.*
-
-# Phase 6 — Déploiement 
-
-Cette phase vise à **transformer les résultats analytiques et prédictifs** obtenus dans les étapes précédentes en **instruments concrets d’aide à la décision**.    
-Dans le contexte haïtien, cela signifie utiliser le modèle pour **anticiper les crises alimentaires**, orienter les **interventions humanitaires**, et soutenir la **planification gouvernementale** en matière de sécurité alimentaire.
-
-Le modèle développé fournit un cadre d’analyse basé sur les indicateurs climatiques, économiques et géographiques, permettant d’identifier les **zones à haut risque** avant qu’une crise ne s’installe.
-
 ---
-
-## 6.1 Interprétation  du modèle
-
-Les résultats du modèle ont mis en évidence les relations suivantes :
-
-- Les **prix alimentaires** sont le **facteur le plus influent** dans la dégradation des phases IPC.  
-- Les **indicateurs climatiques** (pluviométrie, NDVI) influencent directement la disponibilité agricole.  
-- Le **taux de change** amplifie les vulnérabilités économiques et affecte le coût de la vie.  
-- Le modèle a atteint une **performance moyenne (R² ≈ 0.44)** avec une **stabilité inter-fold solide (± 0.06)**, traduisant une capacité de généralisation satisfaisante.
-
-Ces résultats confirment que l’insécurité alimentaire en Haïti n’est pas liée à un seul facteur :  
-elle est **le produit de la convergence** entre **chocs économiques, instabilité climatique et contraintes logistiques**.
-
----
-
-## 6.2 Déploiement technique du modèle
-
-### Objectif technique
-
-Le modèle peut être intégré dans un système de suivi dynamique :
-- Actualisation mensuelle des données (prix, précipitations, NDVI) ;  
-- Prédiction automatique de la **phase IPC probable** par commune ou par département.
-
-
-## 6.3 Application terrain et système d’alerte précoce
-
-Le modèle final peut être intégré dans un système national de suivi et d’alerte précoce (Early Warning System).
-L’objectif est de détecter rapidement les signaux d’aggravation de l’insécurité alimentaire et de déclencher une réponse rapide avant la crise.
-Les résultats de la modélisation peuvent alimenter un système d’alerte précoce (EWS) destiné à :
-- Identifier les communes les plus vulnérables ;
-- Détecter rapidement les variations anormales des prix et de la pluviométrie ;
-- Mobiliser les stocks alimentaires régionaux et planifier les convois humanitaires avant la détérioration de la situation par les institutions;
-- Informer la priorisation des ressources pour les programmes du PAM et du MARNDR.
-
-Par exemple :
-
-Si le modèle prédit une hausse de l’IPC en Grand’Anse ou dans le Sud à la suite d’événements climatiques comme le cyclone Melissa, les acteurs peuvent activer immédiatement les stocks régionaux ou rediriger les convois humanitaires avant l’aggravation de la crise.
-
----
-
-##  6.4 Plan de déploiement institutionnel
-
-Le modèle prédictif développé dans ce projet n’a de véritable valeur que s’il peut être **mis au service des acteurs publics, humanitaires et territoriaux** qui œuvrent à la réduction de l’insécurité alimentaire en Haïti.  
-L’objectif de cette section est donc de proposer un **plan de déploiement institutionnel réaliste et durable**, permettant de transformer les résultats du modèle en **outil opérationnel d’aide à la décision**.
-
----
-
-### Objectif du déploiement
-
-Mettre à la disposition du **Gouvernement haïtien**, du **CNSA (Coordination Nationale de la Sécurité Alimentaire)**, du **PAM**, de la **FAO**, et du **MARNDR** un système d’analyse et de prévision permettant :
-- d’**identifier les communes à risque élevé** d’insécurité alimentaire avant la crise,  
-- de **déclencher des alertes précoces**,  
-- et de **planifier les interventions logistiques et humanitaires** de manière plus efficace.
-
----
-
-### Structure institutionnelle proposée
-
-Le déploiement du modèle repose sur une **collaboration interinstitutionnelle** organisée autour de trois niveaux de gouvernance :
-
-| Niveau | Institution clé | Responsabilités principales |
-|--------|------------------|-----------------------------|
-| **1. Politique et stratégique** | **Primature & MARNDR** | Pilotage général, intégration dans la stratégie nationale de résilience alimentaire. |
-| **2. Technique et analytique** | **CNSA, FAO, PAM, OCHA** | Gestion des données, mise à jour du modèle, suivi mensuel des prévisions IPC. |
-| **3. Opérationnel et territorial** | **DAE, Bureaux départementaux de l’agriculture** | Collecte de données locales, validation terrain, communication des alertes. |
-
-Cette architecture garantit un **partage clair des rôles** entre les acteurs décisionnels, techniques et locaux, assurant la durabilité du système.
-
----
-
-### Approche technologique et déploiement
-
-Le modèle peut être déployé sous forme d’un **tableau de bord interactif** ou d’une **application légère** accessible via un portail web institutionnel.  
-L’idée est de créer un outil intuitif et accessible même dans des environnements à faible connectivité.
-
-#### 🔹 Étapes de déploiement :
-1. **Automatisation des mises à jour de données** à partir des sources existantes (CNSA, FAO, Météo Haïti).  
-2. **Hébergement du modèle** sur un serveur institutionnel (ou cloud sécurisé — par exemple Google Cloud ou AWS, en partenariat FAO-PAM).  
-3. **Création d’un tableau de bord (Dashboard)** avec des indicateurs interactifs :  
-   - Cartes de risques (phases IPC par commune).  
-   - Courbes de tendance par indicateur (prix, pluviométrie, NDVI).  
-   - Alertes dynamiques lorsque les seuils critiques sont atteints.  
-4. **Formation des cadres techniques** (CNSA, MARNDR, FAO) à l’interprétation et à la maintenance du modèle.  
-5. **Validation annuelle** des performances du modèle à partir des nouvelles données de terrain.
-
-
----
-
-### Intégration dans les cadres internationaux
-
-Le modèle pourrait être intégré dans le **Cadre Harmonisé d’Analyse de la Sécurité Alimentaire (CH)** utilisé par la FAO et le PAM pour la classification IPC.  
-Cela permettrait à Haïti :
-- de **renforcer la crédibilité internationale** de ses données,  
-- d’**accéder plus rapidement aux financements humanitaires**,  
-- et de **synchroniser ses rapports** avec les pays voisins de la région caraïbe.
-
-
----
-
-
-Le plan de déploiement institutionnel s’inscrit dans une vision à long terme :  
-faire de la **data science un pilier de la politique alimentaire et climatique d’Haïti**.  
-En reliant la technologie aux institutions, le modèle devient un outil de gouvernance moderne, capable de **transformer la prévision en action, et la donnée en décision.**
-
-> *Ce projet marque un pas décisif vers une gestion intelligente des risques alimentaires en Haïti : une approche où chaque donnée devient un signal d’alerte, et chaque prévision, une opportunité d’agir avant la crise.*
-
----
-
 
 # Recommandations stratégiques
 
