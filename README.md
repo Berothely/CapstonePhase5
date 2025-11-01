@@ -66,7 +66,8 @@ La carte suivante présente la structure administrative du territoire haïtien a
 
 
 <center>
-    <img src="carte_Haiti.jpeg" alt="Carte d'Haïti - Zones d'étude" width="700"/>
+    <img src="carte_Haiti.jpeg.jpg
+        " alt="Carte d'Haïti - Zones d'étude" width="700"/>
     <br>
     <em>Figure 1 — Carte d’Haïti : zones d’étude pour la prédiction du risque d’insécurité alimentaire.</em>
 </center>
