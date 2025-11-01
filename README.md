@@ -310,7 +310,7 @@ On veut savoir : est-ce que le modèle sous-estime systématiquement certaines z
 Ou est-ce qu’il est équilibré ?
 
 <center>
-    <img src="Residus.png" alt="" width="700"/>
+    <img src="Residus.png" alt="Residus Process" width="700"/>
     <br>
  
 </center>
@@ -382,7 +382,7 @@ On veut répondre honnêtement à la question suivante :
 On extrait donc l’importance de chaque indicateur dans le modèle (basé ici sur la Random Forest).
 
 <center>
-    <img src="Indicateurs.png" alt="" width="700"/>
+    <img src="Indicateurs.png" alt="Indicateurs Process" width="700"/>
     <br>
  
 </center>
@@ -414,7 +414,7 @@ Ici on résume, par département, trois informations clés :
 L’objectif est de comprendre l'essence de cette question : “Quels départements combinent prix élevés et sécheresse ?”
 
 <center>
-    <img src="correlation.png" alt="" width="700"/>
+    <img src="correlation.png" alt="correlation Process" width="700"/>
     <br>
  
 </center>
